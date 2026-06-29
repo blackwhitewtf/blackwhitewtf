@@ -24,4 +24,4 @@
 
 ---
 
-I like Ki :)
+I like Ai :)
