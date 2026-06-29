@@ -1,9 +1,5 @@
 # Hello, I'm Blackwhite 
 
-<p align="left">
-  <code style="color: #888;">// building high-performance systems & modern web dashboards</code>
-</p>
-
 ---
 
 ### 💻 Stack
@@ -28,6 +24,4 @@
 
 ---
 
-<p align="left">
-  <code style="color: #555;">Let's connect or collaborate on code that matters.</code>
-</p>
+I like Ki :)
