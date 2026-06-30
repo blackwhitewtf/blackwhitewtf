@@ -24,4 +24,15 @@
 
 ---
 
+### 🔗 Connections
+<p align="left">
+  <a href="https://blackwhite.wtf">
+    <img
+      src="https://img.shields.io/badge/Linktree-blackwhite.wtf-ffffff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=000000"
+      alt="Blackwhite Linktree"
+    />
+  </a>
+</p>
+
 I like Ai :)
+
