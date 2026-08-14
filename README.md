@@ -12,7 +12,6 @@
 
 ### ⚙️ Current Focus
 * **Blackbot:** Developing an advanced Discord bot ecosystem with interactive features.
-* **Web Dashboard:** Building a full-stack dashboard to configure Blackbot via Next.js.
 * **Homelab:** Maintaining localized micro-services, networks, and container automation.
 
 ---
