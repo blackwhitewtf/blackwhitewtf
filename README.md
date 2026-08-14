@@ -3,7 +3,7 @@
 ---
 
 ### 💻 Stack
-* **Languages:** JavaScript (ES6+), Node.js
+* **Languages:** JavaScript (ES6+)
 * **Frontend:** Next.js
 * **Database:** MariaDB
 * **Plattform:** Ubuntu
