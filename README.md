@@ -6,7 +6,7 @@
 * **Languages:** JavaScript (ES6+), Node.js
 * **Frontend:** Next.js
 * **Database:** MariaDB
-* **Infrastructure:** Linux (Ubuntu), Cloudflare, Docker
+* **Plattform:** Ubuntu
 
 ---
 
